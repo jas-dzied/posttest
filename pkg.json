@@ -4,6 +4,7 @@
     "source": "https://github.com/jas-dzied/posttest.git",
     "dependencies": [
 	      "requests",
-        "rich"
+        "rich",
+        "quantumrandom"
     ]
 }
