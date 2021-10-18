@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 import time
 import requests
+from rich.console import Console
 print(f"The time is {time.ctime()}")
 print(requests.get("https://httpbin.org/get"))
+Console().print("[red]Printed with rich![/]")

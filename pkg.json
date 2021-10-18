@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "source": "https://github.com/jas-dzied/posttest.git",
     "dependencies": [
-	"requests"
+	      "requests",
+        "rich"
     ]
 }
